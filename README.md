@@ -1,4 +1,4 @@
-![Alt Text](GMM/overview.pdf)
+![GMM/overview.pdf](https://github.com/Coco-T-T/GMM/blob/main/overview.pdf)
 
 # GMM
 ## Requirements
