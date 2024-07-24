@@ -1,4 +1,4 @@
-![Alt Text](image_path)
+![Alt Text](GMM/overview.pdf)
 
 # GMM
 ## Requirements
