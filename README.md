@@ -1,3 +1,5 @@
+![Alt Text](image_path)
+
 # GMM
 ## Requirements
 - pytorch 1.10.2
