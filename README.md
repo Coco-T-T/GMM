@@ -1,5 +1,3 @@
-![GMM/overview.pdf](https://github.com/Coco-T-T/GMM/blob/main/overview.pdf)
-
 # GMM
 ## Requirements
 - pytorch 1.10.2
